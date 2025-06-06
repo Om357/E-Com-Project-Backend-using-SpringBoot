@@ -92,4 +92,13 @@ public class ProductController {
         return new ResponseEntity<>(products, HttpStatus.OK);
     }
 
+    //delete api
+    @GetMapping("/products/delete")
+    public ResponseEntity<List<Product>> delete(@RequestParam String keyword){
+        List<Product> products = service.searchProducts(keyword);
+        System.out.println("searching with "+ keyword);
+
+        return new ResponseEntity<>(products, HttpStatus.OK);
+    }
+
 }
