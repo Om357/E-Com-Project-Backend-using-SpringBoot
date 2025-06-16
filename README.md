@@ -56,19 +56,19 @@ This is a backend implementation for an E-Commerce application developed using *
 ---
 
 ## 📂 Folder Structure
-src/
- └── main/
-     ├── java/com/yourcompany/ecom/
-     │   ├── controller/
-     │   ├── service/
-     │   ├── repository/
-     │   ├── model/
-     │   └── EcomApplication.java
-     └── resources/
+-src/
+- └── main/
+-     ├── java/com/yourcompany/ecom/
+-     │   ├── controller/
+-     │   ├── service/
+-     │   ├── repository/
+-     │   ├── model/
+-     │   └── EcomApplication.java
+-     └── resources/
          └── application.properties
 ---
 
 ## 🧑‍💻 Author
-Om Rathod
-📧 om.rathod2004.or@gmail.com
-
+- Om Rathod
+- 📧 om.rathod2004.or@gmail.com
+---
