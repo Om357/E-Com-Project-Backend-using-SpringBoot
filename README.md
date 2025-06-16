@@ -54,7 +54,7 @@ This is a backend implementation for an E-Commerce application developed using *
     spring.datasource.password=your_db_password
     spring.jpa.hibernate.ddl-auto=update
 
-📂 Folder Structure
+##📂 Folder Structure
 src/
  └── main/
      ├── java/com/yourcompany/ecom/
@@ -66,7 +66,7 @@ src/
      └── resources/
          └── application.properties
          
-🧑‍💻 Author
+##🧑‍💻 Author
 Om Rathod
 📧 om.rathod2004.or@gmail.com
 
